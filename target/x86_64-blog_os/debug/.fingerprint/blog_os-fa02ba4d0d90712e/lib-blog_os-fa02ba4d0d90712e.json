@@ -1,0 +1,1 @@
+{"rustc":2609485906474651656,"features":"[]","target":4305384288177415440,"profile":731176819336294830,"deps":[["rlibc v1.0.0",2421569075174733603]],"local":[{"MtimeBased":[[1511356688,70910271],"/home/mila/Documents/project/target/x86_64-blog_os/debug/.fingerprint/blog_os-fa02ba4d0d90712e/dep-lib-blog_os-fa02ba4d0d90712e"]}],"rustflags":["--sysroot","/home/mila/.xargo"]}
